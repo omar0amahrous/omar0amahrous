@@ -12,7 +12,7 @@ Always looking to improve my skills and learn new technologies.
 ### 🚀 Tech Stack:
 - HTML, CSS, JavaScript
 - Bootstrap
-- Currently exploring React.js
+- React.js
 
 ---
 
