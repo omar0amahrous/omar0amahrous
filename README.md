@@ -1,4 +1,7 @@
-![Hey there, I'm Omar Ashraf. I'm a front-end developer](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I%E2%80%99m+Omar+Ashraf.;I%E2%80%99m+FrontEnd+developer+" alt="Typing SVG" />
+</p>
+
 ###
 
 <div align="center">
@@ -59,6 +62,12 @@
 
 ###
 
+ <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
+  
+###
+  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=omar0amahrous&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
